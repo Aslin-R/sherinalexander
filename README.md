@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherinalexander" alt="sherinalexander" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Marketing,Bootstrap**
+- 🌱 I’m currently learning **Digital Marketing**
 
 - 💬 Ask me about **Self Help Books**
 
